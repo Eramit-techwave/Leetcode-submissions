@@ -10,7 +10,7 @@ class Solution {
         //         return count / 2;
         //     }
         // }
-
-        return(high + 1) /2 - low/2;
+return ((high + 1 )/2) - (low/2);
+         
     }
 }
